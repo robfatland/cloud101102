@@ -12,7 +12,14 @@ need for you on the Google Cloud, and walk you through the subject step by step.
 but to use them you will need to create an account: Use your working email but create a password
 that is not your UW NetID password. This will activate the **Start** button on the Qwiklabs.
 Once you start a Qwiklab you will click on **Open Console**. The Console is your browser based
-access port to the GCP. 
+access port to the GCP. Back on the labs page: When finished be sure to click on the **End Lab**
+button at the top to get credit for completing the lab. 
+
+
+> Pro tip: On GCP the first resource organizing concept is the **project**. A project is something like 
+a logical wrapper around a set of cloud resources. It can have multiple Users associated for the purpose
+of working collaboratively. 
+
 
 
 # 102 Machine Learning 
