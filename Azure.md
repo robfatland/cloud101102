@@ -1,3 +1,3 @@
-# Azure yeah
+# Azure
 
-Run that 
+Start [here](https://docs.microsoft.com/en-us/learn/azure/). 
