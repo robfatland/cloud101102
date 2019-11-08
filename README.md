@@ -36,7 +36,7 @@ two and a half hours:
 * What is the cloud in three words or less?
 * Cloud jargon and how it works for you
 * Consoles versus commands versus api's
-* The Console
+* The Console / Portal
 * Instances: Create, log in, update, modify, stop, image, start from image, verify, cost
 * Storage: Block, object, archival; write from world, read to Instance
 * Services: Databases, serverless computing and much more
