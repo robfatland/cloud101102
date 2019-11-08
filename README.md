@@ -1,3 +1,6 @@
+Temporary link (scan and close) for [immersion day April 2017](https://cloudmaven.github.io/documentation/rc_cloud101_immersion.html)
+
+
 # cloud 101/102
 
 Welcome! Cloud 101/102 is a half-day hands-on introduction to moving your research computing to
