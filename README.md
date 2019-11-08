@@ -72,7 +72,7 @@ each respective cloud.
 ### Azure 101 Basics
 
 
-### 102 Data science: Azure Machine Learning Studio and Azure Notebooks
+### Azure 102 Data science: Azure Machine Learning Studio and Azure Notebooks
 
 
 * Use a Microsoft-recognized email account to sign up for a free-tier account [here](https://studio.azureml.net/)
