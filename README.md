@@ -37,11 +37,12 @@ two and a half hours:
 * Cloud jargon and how it works for you
 * Consoles versus commands versus api's
 * The Console
-* Instances: Creating, logging in, modifying content, stopping, re-starting, costing
-* Storage: Block, object, archival
+* Instances: Create, log in, update, modify, stop, image, start from image, verify, cost
+* Storage: Block, object, archival; write from world, read to Instance
 * Services: Databases, serverless computing and much more
-* Scale
-* Cost estimation and management
+* Scale: How cloud auto-scaling features map to research computing
+* Cost estimation and cost management
+* Data-oriented and sandbox-oriented collaboration
 
 
 ### Cloud 102 Data science
