@@ -77,6 +77,7 @@ each respective cloud.
   * [Get started video](https://contosoafx.blob.core.windows.net/media/02%20Getting%20Started%20with%20Azure%20Machine%20Learning%20Studio.mp4)
   * [First project tutorial](https://azure.microsoft.com/email/?destination=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fmachine-learning%2Fstudio%2Fcreate-experiment&p=bT01ZDM5ZGMwMS00NWZlLTQxOTYtYjA5Yy01MDk0MzY3MDBiMzQmdT1hZW8mbD1kb2NzJTNBY3JlYXRlLWV4cGVyaW1lbnQ%3D)
   * [Sample experiments](https://azure.microsoft.com/email/?destination=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fmachine-learning%2Fstudio%2Fsample-experiments&p=bT01ZDM5ZGMwMS00NWZlLTQxOTYtYjA5Yy01MDk0MzY3MDBiMzQmdT1hZW8mbD1kb2NzJTNBc2FtcGxlLWV4cGVyaW1lbnRz)
+and [gallery](https://azure.microsoft.com/email/?destination=https%3A%2F%2Fgallery.azure.ai%2F&p=bT01ZDM5ZGMwMS00NWZlLTQxOTYtYjA5Yy01MDk0MzY3MDBiMzQmdT1hZW8mbD1nYWxsZXJ5LmF6dXJlLmFpXzI%3D)
   
   
   
