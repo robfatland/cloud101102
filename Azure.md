@@ -14,5 +14,7 @@ authentication works fine. I accept terms and click through to the learning reso
 the latest greatest. 
 
 * [Drag and Drop Intro](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-train-score)
+  * Created a Machine Learning Service workspace... takes a few minutes to deploy... notification bell gets me there
+  * Ooops I was supposed to set Workspace Edition = Enterprise, not Basic. Do over.
 * [Python SDK approach](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup)
 
