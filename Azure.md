@@ -49,6 +49,12 @@ $ ssh -i rob5-VM.pem rob5@111.222.33.44
 
 Sure enough I found the `rob5.txt` file here as it should be. 
 
+### Image Create and Restore
+
+The verb for creating an image on Azure is `Capture`. The console makes both `Stop` and `Capture` easy clicks.
+Note the option to preserve the ip address is presented as a check box. The `Capture` makes the VM unusable
+in a sort of mutually exclusive status trade. I checked the box to delete the VM. 
+
 ## 102
 
 From 'learn Azure ML' top search result I find a Microsoft page that $200 test account. UW NetID 
