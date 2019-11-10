@@ -3,7 +3,7 @@
 ## 101
 
 - Standard Azure training site is [here](https://docs.microsoft.com/en-us/learn/azure/). 
-- [Azure launch from an email](https://azure.microsoft.com/email/?destination=https%3A%2F%2Fportal.azure.com%2F%23blade%2FMicrosoft_Azure_Resources%2FQuickstartCenterBlade%3Ffeature.RMFAEmailA%3Dblade%2FMicrosoft_Azure_Resources%2FQuickstartCenterBlade&p=bT1jNmRjNjJiMS0xMjk0LTRlZmYtOWUxYS1lM2ViMTc0Y2YzYTEmcz1lM2U5OWRhNi0xZmEzLTQ4MmUtOTY3Mi1iM2YwMzZjN2Y0NmQmdT1hZW8mbD1wb3J0YWwlM0FxdWlja3N0YXJ0LWNlbnRlci1ibGFkZQ%3D%3D)
+- [Azure Quickstart launch](https://portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartCenterBlade?feature.RMFAEmailA=blade/Microsoft_Azure_Resources/QuickstartCenterBlade)
 - The Azure [portal](https://portal.azure.com/#home)
 
 ## 102
