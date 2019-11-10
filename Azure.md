@@ -53,7 +53,21 @@ Sure enough I found the `rob5.txt` file here as it should be.
 
 The verb for creating an image on Azure is `Capture`. The console makes both `Stop` and `Capture` easy clicks.
 Note the option to preserve the ip address is presented as a check box. The `Capture` makes the VM unusable
-in a sort of mutually exclusive status trade. I checked the box to delete the VM. 
+in a sort of mutually exclusive status trade. I checked the box to delete the VM. When this is done I see the
+image (in the resource group listing) and an additional six resources where I remark on *type* for each:
+
+```
+rob5-VM-image-1234567890         machine image
+rob5-VM-ip                       public ip address 
+rob5-VM-nsg                      network security group
+rob5-VM663                       network interface
+rob5-VM_OsDisk_etcetc            30GB unattached SSD drive (about $1.20 / month)
+rob5_VM-vnet                     virtual network
+rob5vmdiag                       storage account for retaining diagnostics for resources
+```
+
+I created a snapshot of the disk so that I can delete the disk and see about restoring the image. 
+
 
 ## 102
 
