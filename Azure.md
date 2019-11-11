@@ -66,7 +66,13 @@ rob5_VM-vnet                     virtual network
 rob5vmdiag                       storage account for retaining diagnostics for resources
 ```
 
-I created a snapshot of the disk so that I can delete the disk and see about restoring the image. 
+I created a snapshot of the disk and deleted the disk; so replace row 5 above with 
+
+```
+rob5-VM_snapshot
+```
+
+Now to restore the image. 
 
 
 ## 102
