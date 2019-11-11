@@ -47,7 +47,10 @@ we can at last log in to the virtual machine:
 $ ssh -i rob5-VM.pem rob5@111.222.33.44 
 ```
 
-Sure enough I found the `rob5.txt` file here as it should be. 
+Sure enough I found the `rob5.txt` file here as it should be. Now let's make an image, throw out the instance, 
+and demonstrate that it can be reconstituted. 
+
+
 
 ### Image Create and Restore
 
